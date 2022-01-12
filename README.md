@@ -1,1 +1,1 @@
-# webpage
+This project is a continuation of Week 1 of Front End where we add CSS to the various indexes.  Just to help with the design element of web design. Contents of the threads were kept the same, but just added some CSS design.  I will continue to work on this, just to make things a bit more nice.
